@@ -1,0 +1,45 @@
+.one{
+     background-image:url("https://img.freepik.com/free-vector/background-realistic-abstract-technology-particle_23-2148431735.jpg?w=826&t=st=1723008311~exp=1723008911~hmac=a070d62d81973b64abaced940ddd6f1a3c5f8f26fb5b3b7564f9fc7a19e2d3a6");
+     height:230px;
+     width:220px;
+     margin-left:400px;
+     border-radius:10%;
+     color:rgb(212, 11, 105);
+     font-size:25px;
+     border:10px rgba(14, 174, 227, 0.889) solid;
+     border-top-style:groove;
+     margin-top: 150px;
+     -webkit-border-radius:10%;
+     -moz-border-radius:10%;
+     -ms-border-radius:10%;
+     -o-border-radius:10%;
+}
+#submit{
+    margin-top:20px;
+    height:2em;
+    width:7em;
+    border-radius:10%;
+    color:aqua;
+    background-color: floralwhite;
+    font-size: large;
+   
+}
+#submit{
+    width:9em;
+    height:3em;
+    border-radius:30em;
+    font-size:15px;
+    font-family:inherite;
+    border:none;
+    position:relative;
+    overflow: hidden;
+       z-index:1;
+    box-shadow:6px 6px 12px #c5c5c5,-6px -6px 12px #ffffff;
+}
+
+body{
+    background-color: black;
+}
+#text_show{
+    color:red;
+}

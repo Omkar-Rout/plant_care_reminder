@@ -1,0 +1,187 @@
+.heading{
+    height:150px;
+    width:1200px;
+background-image:url("https://img.freepik.com/free-photo/top-view-lots-leaves-with-copy-space_23-2148678632.jpg?w=740&t=st=1720935740~exp=1720936340~hmac=4048929ff5016f0d529e97a3911ff7017c3466284bf56ee2503401b2baecf86f") ;
+margin-top:0px;
+}
+#two{
+    color:#47a8b5;
+    font-size:xx-large;
+}
+.one{
+     display: flex;
+     flex-wrap: wrap;
+     flex-direction: row;
+     margin-top: 5px;
+
+     
+     
+}
+#flower1   
+{
+  height: 300px;
+  width: 250px;
+  background-color:black;
+  margin-right:4px;
+  margin-bottom:4px;
+  border-radius:25px;
+  background-image:url("https://m.media-amazon.com/images/I/51xLNVn5kML._AC_UF1000,1000_QL80_.jpg");
+  background-size:250px;
+  background-position:50% -40%;
+  text-align:center;
+  font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+  
+
+ 
+  
+}
+#flower2{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(42, 154, 108);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align-last:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  background-image:url("https://naturerabbit.in/wp-content/uploads/2020/12/Nature-Rabbit-English-Ivy-plant.jpg");
+  background-size:250px;
+  background-position:50% 80%;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+}
+#flower3{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(49, 9, 99);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNK9iRWAeNTXGSIf6X7Ac8LzmBY14quRWQsw&s");
+  background-position:50% 80%;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+}
+#flower4{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(175, 10, 12);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2arFo_z1m4bRYcYdwNArR1S5tEj1yhMsrlg&s");
+  background-position:50% 95%;
+  
+}
+#flower5{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(13, 133, 163);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+  background-image:url("");
+  background-position:50% 95%;
+}
+#flower6{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(179, 9, 170);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+}
+#flower7{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(244, 11, 11);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+}
+#flower8{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(163, 198, 24);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+}
+#flower9{
+    height: 300px;
+    width: 250px;
+    background-color:rgb(33, 7, 126);
+    margin-right:4px;
+    margin-bottom:4px;
+    border-radius:25px;
+    text-align:center;
+    font-size: large;
+  color:black;
+  font-weight:bold;
+  text-shadow:2px 2px 2px blueviolet;
+  border-style:solid;
+  border-width: 10PX;
+  border-color: rgb(9, 227, 97);
+}
+body{
+  background-color:bisque;
+}
+#enterswitch{
+  margin-top:240px;
+}
